@@ -1,4 +1,4 @@
-https://github.com/agialias-dev/learn-CICD/actions/workflows/ci.yml/badge.svg
+![Unit test completion](https://github.com/agialias-dev/learn-CICD/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
