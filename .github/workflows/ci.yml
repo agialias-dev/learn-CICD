@@ -40,5 +40,5 @@ jobs:
       - name: Format Go style
         run: test -z $(go fmt ./...)
       
-      - name: Lint
+      - name: staticcheck
         run: staticcheck ./...
